@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Canvas-Editor/static/css/main.639dfc74.css",
+    "main.js": "/Canvas-Editor/static/js/main.b632249f.js",
+    "index.html": "/Canvas-Editor/index.html",
+    "main.639dfc74.css.map": "/Canvas-Editor/static/css/main.639dfc74.css.map",
+    "main.b632249f.js.map": "/Canvas-Editor/static/js/main.b632249f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639dfc74.css",
+    "static/js/main.b632249f.js"
+  ]
+}
