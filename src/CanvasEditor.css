@@ -1,0 +1,24 @@
+/* CanvasEditor.css */
+
+canvas {
+  border: 1px solid #000; /* Add a black border */
+  border-radius: 5px; /* Add rounded corners */
+  margin-top: 20px; /* Add some spacing from the UI elements */
+}
+
+/* Remove box styling for CTA text */
+canvas::-webkit-input-placeholder {
+  color: transparent;
+}
+
+canvas:-moz-placeholder {
+  color: transparent;
+}
+
+canvas::-moz-placeholder {
+  color: transparent;
+}
+
+canvas:-ms-input-placeholder {
+  color: transparent;
+}
